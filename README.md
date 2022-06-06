@@ -1,8 +1,8 @@
-![banner](https://github.com/josh0x/josh-hz.github.io/blob/master/img/DJI_0104.jpeg)
+<!-- ![banner](https://github.com/josh0x/josh-hz.github.io/blob/master/img/DJI_0104.jpeg) -->
 
 # 👋 Hey, I'm Joshua Bowers.
 
-I’m currenctly a HB0-ICT student located in the Netherlands, specializing in software engineering. 
+I’m currenctly a HBO-ICT student located in the Netherlands, specializing in software engineering. 
 
 I work mainly in teams using the agile methodology for the software development cycle, in order to find solutions for real world clients.
 
