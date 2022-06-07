@@ -1,7 +1,8 @@
-<!-- ![banner](https://github.com/josh0x/josh-hz.github.io/blob/master/img/DJI_0104.jpeg) -->
+![banner](https://unsplash.com/photos/GLf7bAwCdYg)
 
-## 👋🏽 Hey everyone
-I’m currenctly a HBO-ICT student located in the Netherlands, specializing in software engineering. 
+## 👋🏽 Hey everyone, 
+
+My name is [Joshua](https://www.linkedin.com/in/thejoshuabowers/) and I’m currenctly a HBO-ICT student located in the Netherlands, specializing in software engineering. 
 
 I work mainly in teams using the agile methodology for the software development cycle, in order to find solutions for real world clients.
 
