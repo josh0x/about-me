@@ -1,6 +1,6 @@
 <!-- ![banner](https://github.com/josh0x/josh-hz.github.io/blob/master/img/DJI_0104.jpeg) -->
 
-# 👋 Hey, I'm Joshua.
+# 👋  Hey, I'm Josh
 
 I’m currenctly a HBO-ICT student located in the Netherlands, specializing in software engineering. 
 
