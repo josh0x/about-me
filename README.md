@@ -1,4 +1,4 @@
-![banner](https://github.com/josh0x/josh0x/blob/main/git-cover.png)
+<!-- ![banner](https://github.com/josh0x/josh0x/blob/main/git-cover.png) -->
 
 ### 👋🏽 Hey everyone, my name is [Joshua](https://www.linkedin.com/in/thejoshuabowers/)
 
