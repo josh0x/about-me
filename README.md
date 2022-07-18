@@ -4,13 +4,11 @@
 
 I’m currenctly a HBO-ICT student located in the Netherlands, specializing in software engineering. 
 
-I work mainly in teams using the agile methodology for the software development cycle, in order to find solutions for real world clients.
-
 --- 
 
 ### 🚀 I'm currently working on: 
 
-Building the 2nd iteration of my [portfolio](https://joshuabowers.nl) website, with React, Next.js, and Tailwind.
+Building the 2nd iteration of my [portfolio](https://joshuabowers.nl) website, with React, Next.js, and Tailwind CSS.
 
 --- 
 
