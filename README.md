@@ -10,7 +10,7 @@ I work mainly in teams using the agile methodology for the software development 
 
 ### 🚀 I'm currently working on: 
 
-Building the 2nd iteration of my [portfolio](https://joshuabowers.nl) website, with Next.js and Chakra UI. 
+Building the 2nd iteration of my [portfolio](https://joshuabowers.nl) website, with React, Next.js, and Tailwind.
 
 --- 
 
