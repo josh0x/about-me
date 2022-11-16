@@ -6,7 +6,7 @@ I’m currenctly a HBO-ICT student located in the Netherlands, specializing in s
 
 --- 
 
-### 🚀 I'm currently working on: 
+### 🚧 I'm currently working on: 
 
 Building the 2nd iteration of my [portfolio](https://joshuabowers.nl) website, with React, Next.js, and Tailwind CSS.
 
