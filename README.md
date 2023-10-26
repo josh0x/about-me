@@ -14,4 +14,4 @@ My personal [website](https://www.joshua.sx/) for freelance projects.
 
 ### 📚 I'm currently learning: 
 
-Following online courses to learn React, Next.js, Tailwind CSS, and Google Cloud.
+The art of building web applications using React + Next.js, utilising Tailwind CSS for a captivating user interface, and harnessing the scalability of Google Cloud for deployment.
