@@ -2,18 +2,16 @@
 
 ### 👋🏽 Hey everyone, my name is [Joshua](https://www.linkedin.com/in/thejoshuabowers/)
 
-I’m currenctly a HBO-ICT student located in the Netherlands, specializing in software engineering. 
+I’m currently an ICT student located in the Netherlands, specializing in software engineering. 
 
 --- 
 
-### 🚧 I'm currently working on: 
+### 🚧 I'm currently building: 
 
-Building the 2nd iteration of my [portfolio](https://joshuabowers.nl) website, with React, Next.js, and Tailwind CSS.
+My personal [website](https://www.joshua.sx/) for freelance projects.
 
 --- 
 
 ### 📚 I'm currently learning: 
 
-- React
-- Next.js
-- Google cloud
+Following online courses to learn React, Next.js, Tailwind CSS, and Google Cloud.
